@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Alice&family=DM+Serif+Display:ital@1&family=Lobster+Two:ital,wght@1,700&family=Protest+Guerrilla&display=swap');
+*{
+    margin:0;
+    padding: 0;
+}
+.container2
+{
+    display:flex;
+    padding: 0px;
+    outline-style:solid;
+    outline-offset: 5vw;
+
+}
+.container{
+display: flex;
+}
+.container img{
+    width: auto;
+}
+.sidebar li
+{   
+    list-style: none;
+    font-size: 60px;
+    padding: 40px;
+}
+a:link
+{
+    color: white;
+}
+a:visited
+{
+    color: white;
+}
+a:hover
+{
+color: aqua;
+}
+.sidebar
+{
+    background-image: url(backgroundnew.jpg) ;
+    width: 12vw;
+    height:100vh;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    background-image: url("background.avif");
+    font-family: 'Protest Guerrilla', sans-serif;
+}
+
+
+.main img
+{   
+    float: left;
+    display: flex;
+    margin-left:10vw;
+    margin-right: 90vw;
+}
+.main
+{
+    width: 90vw;
+    color: black;
+    border-style: double;
+    border-width: 10px;
+    box-sizing:content-box;   
+}
+.main2
+{
+    border-style: double;
+}
+.main li
+{
+    padding: 10px;
+    font-family: 'Alice', serif;
+    font-size: 50px;
+    list-style: none;
+}
+.about
+{
+    font-family: 'Lobster Two', sans-serif;
+    font-size:60px;
+}
+.about h1{
+    font-size: 80px;
+    font-family: 'Alice', serif;
+}
+.main h4{
+    font-family: 'Lobster Two', sans-serif;
+    font-size:60px ;
+}
+.main h1{
+    font-family: 'Lobster Two', sans-serif;
+    font-size:80px ;
+    text-align: center;
+}
+.home
+{
+    padding-top: 20vh;
+    margin:0;
+    border-style: double;
+    border-width: 10px;
+    box-sizing:content-box;
+
+}
+.home h2
+{
+    font-family:'Lobster Two', sans-serif;
+    font-size: 60px;
+    margin-left: 5vw;
+    
+}
+.home h1
+{
+    font-family:'DM Serif Display', serif; 
+    font-size: 100px;
+    margin-left: 5vw;
+}
+.home main
+{
+    font-family: 'DM Serif Display', serif; 
+    font-size: 60px;
+    margin-left: 5vw;
+    margin-right: 30vw;
+
+}
+.home footer
+{
+    font-family: 'DM Serif Display', serif; 
+    font-size: 60px;
+    margin-left: 5vw;
+}
+.contact
+{
+    font-family:'DM Serif Display', serif; 
+    font-size: 40px;
+    margin-left: 5vw;
+    list-style: none;
+}
