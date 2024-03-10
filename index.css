@@ -20,7 +20,7 @@ display: flex;
 .sidebar li
 {   
     list-style: none;
-    font-size: 60px;
+    font-size: 40px;
     padding: 40px;
 }
 a:link
@@ -44,7 +44,7 @@ color: aqua;
     padding: 0px;
     margin: 0px;
     background-image: url("background.avif");
-    font-family: 'Protest Guerrilla', sans-serif;
+    font-family: sans-serif;
 }
 
 
@@ -76,7 +76,7 @@ color: aqua;
 }
 .about
 {
-    font-family: 'Lobster Two', sans-serif;
+    font-family:, sans-serif;
     font-size:60px;
 }
 .about h1{
@@ -103,7 +103,7 @@ color: aqua;
 }
 .home h2
 {
-    font-family:'Lobster Two', sans-serif;
+    font-family:sans-serif;
     font-size: 60px;
     margin-left: 5vw;
     
