@@ -37,13 +37,13 @@ color: aqua;
 }
 .sidebar
 {
-    background-image: url("Screenshot 2024-04-27 110303.png") ;
+    background-image: url("image.jpg") ;
     width: 12vw;
     height:100vh;
     text-align: center;
     padding: 0px;
     margin: 0px;
-    background-image: url("Screenshot 2024-04-27 110303.png");
+    background-image: url("image.jpg");
     font-family: sans-serif;
 }
 
